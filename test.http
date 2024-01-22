@@ -1,0 +1,2 @@
+GET http://localhost:8080/calculate?operand1=20&operator=-&operand2=10
+## '+' 예약어기 때문에 url인코딩 사용
